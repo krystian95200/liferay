@@ -1,0 +1,4 @@
+Bundle-Name: footerButtonsSmall
+Bundle-SymbolicName: footerButtonsSmall
+Bundle-Version: 1.0.0
+Export-Package: footerButtonsSmall.constants

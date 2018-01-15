@@ -1,0 +1,4 @@
+Bundle-Name: searchInChomikuj
+Bundle-SymbolicName: com.sChomikuj
+Bundle-Version: 1.0.0
+Export-Package: com.sChomikuj.constants

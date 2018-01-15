@@ -1,0 +1,4 @@
+Bundle-Name: tableModule
+Bundle-SymbolicName: com.table
+Bundle-Version: 1.0.0
+Export-Package: com.table.constants

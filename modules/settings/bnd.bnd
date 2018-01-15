@@ -1,0 +1,4 @@
+Bundle-Name: settings
+Bundle-SymbolicName: settings
+Bundle-Version: 1.0.0
+Export-Package: settings.constants

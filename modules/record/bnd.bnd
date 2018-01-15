@@ -1,0 +1,4 @@
+Bundle-Name: record
+Bundle-SymbolicName: record
+Bundle-Version: 1.0.0
+Export-Package: record.constants

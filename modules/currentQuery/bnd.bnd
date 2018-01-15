@@ -1,0 +1,4 @@
+Bundle-Name: currentQuery
+Bundle-SymbolicName: com.currentQuery
+Bundle-Version: 1.0.0
+Export-Package: com.currentQuery.constants

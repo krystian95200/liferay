@@ -1,0 +1,4 @@
+Bundle-Name: customCss
+Bundle-SymbolicName: com.css.test
+Bundle-Version: 1.0.0
+Export-Package: com.css.test.constants
